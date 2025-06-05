@@ -1,2 +1,2 @@
-# llm_zoomcamp_hmw
-This is a repo for submit homework for https://github.com/slavaheroes/llm-zoomcamp/
+# Homework Repo for LLM Zoomcamp
+This is a repo for submit homework for [LLM Zoomcamp](https://github.com/slavaheroes/llm-zoomcamp/)
